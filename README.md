@@ -2,8 +2,7 @@ SHIELD: Fix Filtering of Foreign Countries
 
 ---
 
-# DOWNLOAD
-...........![Latest Version](https://github.com/b-daarr/SHIELD/blob/main/img/download.png)
+# DOWNLOAD ![Latest Version](https://github.com/b-daarr/SHIELD/blob/main/img/download.png)
 
 
 + E.B (Embargo Breaker) is old version of SHIELD app.
