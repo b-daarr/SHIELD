@@ -2,4 +2,9 @@ SHIELD: Fix Filtering of Foreign Countries
 
 ---
 
-[![VS2022 Build Status](https://img.shields.io/github/actions/workflow/status/pbatard/rufus/vs2022.yml?branch=master&style=flat-square&label=VS2022%20Build)](https://github.com/pbatard/rufus/actions/workflows/vs2022.yml)
+[![Latest Version](https://github.com/b-daarr/SHIELD/blob/main/img/download.png)](https://1drv.ms/u/s!AsHE808G_RHesnJ_75tv6HVjwvjg?e=CRuEBf)
+
+
++ E.B (Embargo Breaker) is old version of SHIELD app.
+
+> I know! this is an awful misnomer :)
