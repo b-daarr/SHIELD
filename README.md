@@ -7,4 +7,4 @@ SHIELD: Fix Filtering of Foreign Countries from Iran
 
 + E.B (Embargo Breaker) is old version of [CShark](https://github.com/b-daarr/CShark/blob/main/README.md) app.
 
-> I know! this is an awful misnomer :)
+> I know! E.B is an awful misnomer :)
